@@ -41,10 +41,10 @@
         <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png">
     </td>
  <td align='center' width="200">
-        <img src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpgdth="80">
+        <img src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpgdth=">
     </td>
  <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2170px-Microsoft_Word_2013-2019_logo.svg.png" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2170px-Microsoft_Word_2013-2019_logo.svg.png"">
     </td>
  <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png">
@@ -54,13 +54,13 @@
  
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"  width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"">
     </td>
     <td align='center'>
-        <img src="https://assets.market-storefront.envato-static.com/storefront/assets/og-images/graphicriver-3a7a4fb0c989f07658faec8a10d5aa5200f5742f371c38cbeb7f17b04a58bfff.png" width="80">
+        <img src="https://assets.market-storefront.envato-static.com/storefront/assets/og-images/graphicriver-3a7a4fb0c989f07658faec8a10d5aa5200f5742f371c38cbeb7f17b04a58bfff.png"">
     </td>
  <td align='center'>
-        <img src="https://1000logos.net/wp-content/uploads/2020/11/Behance-Logo-2020.jpg" width="80">
+        <img src="https://1000logos.net/wp-content/uploads/2020/11/Behance-Logo-2020.jpg">
     </td>
      <td align='center'>
         <img src="https://pbs.twimg.com/profile_images/1453339438029869059/Mpk9QXje_400x400.jpg">
