@@ -34,11 +34,11 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://cdn.pixabay.com/photo/2021/02/03/12/35/photoshop-5977809_960_720.png" width="80">
+        <img src="https://cdn.pixabay.com/photo/2021/02/03/12/35/photoshop-5977809_960_720.png">
     </td>
 
   <td align='center' width="200">
-        <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png"  width="80">
+        <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png">
     </td>
  <td align='center' width="200">
         <img src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpgdth="80">
