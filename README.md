@@ -41,7 +41,7 @@
         <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png">
     </td>
  <td align='center' width="200">
-        <img src="https://banner2.cleanpng.com/20190214/xal/kisspng-coreldraw-computer-software-vector-graphics-practica-corel-draw-5c65b31074dae4.9417377715501688484787.jpgdth=">
+        <img src="https://seeklogo.com/images/C/coreldraw-logo-86A2145BF8-seeklogo.com.png">
     </td>
  <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/2170px-Microsoft_Word_2013-2019_logo.svg.png"">
