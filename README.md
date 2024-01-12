@@ -37,7 +37,7 @@
         <img src="https://cdn.pixabay.com/photo/2021/02/03/12/35/photoshop-5977809_960_720.png">
     </td>
 
-  <td align='center' width="200">
+  <td align='center' width="300">
         <img src="https://1000logos.net/wp-content/uploads/2020/06/Illustrator-Logo.png">
     </td>
  <td align='center' width="200">
