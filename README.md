@@ -4,7 +4,7 @@
   </div>
   
   <div align="center">
-    <h1>Graphic Designer</h1>
+    <h3>Graphic Designer</h3>
   </div>
 	
 
