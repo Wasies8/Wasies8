@@ -2,7 +2,6 @@
   <div align="center">
     <h1> Hi there, I'm Rana Wasi👋<a href="https://github.com/Wasies8"></h1>
   </div>
-  
   <div align="center">
     <h3>Graphic Designer</h3>
   </div>
