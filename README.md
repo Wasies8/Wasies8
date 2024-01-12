@@ -70,7 +70,7 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/wasi-ur-rehman-4470332a5/">
+<a href="https://www.linkedin.com/in/wasi-ur-rehman-4470332a5/"><img width="10px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png">
 <a href="mailto:rjee04739@gmail.com">
 <a href="https://www.instagram.com/@wasiking1306">
  </p>
