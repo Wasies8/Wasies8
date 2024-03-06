@@ -26,7 +26,7 @@
 
 💼 LinkedIn: https://www.linkedin.com/in/wasi-ur-rehman-4470332a5/
 
-📷 Instagram : https://www.instagram.com/@wasiking1306
+📷 Instagram : https://www.instagram.com/wasiking1306/
  
 <h2>Tech Stack</h2>
 
@@ -73,7 +73,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/wasi-ur-rehman-4470332a5/"><img width="35px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"> 
 <a href="mailto:rtxcity@gmail.com"><img width="35px" src="https://static.vecteezy.com/system/resources/previews/016/716/465/original/gmail-icon-free-png.png">
-<a href="https://www.instagram.com/@wasiking1306"><img width="35px" src="https://png.pngtree.com/png-clipart/20230401/original/pngtree-three-dimensional-instagram-icon-png-image_9015419.png">
+<a href="https://www.instagram.com/wasiking1306/"><img width="35px" src="https://png.pngtree.com/png-clipart/20230401/original/pngtree-three-dimensional-instagram-icon-png-image_9015419.png">
  </p>
  
 <br>
